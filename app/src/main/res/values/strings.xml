@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List Processor</string>
+    <string name="action_settings">Settings</string>
+    <string name="initial_message">Messages will go here.</string>
+    <string name="opt1">Show list</string>
+    <string name="opt2">Show list in reverse order</string>
+    <string name="opt3">Show size of list</string>
+    <string name="opt4">Add a string</string>
+    <string name="opt5">Remove a string</string>
+    <string name="opt6">Remove all strings</string>
+    <string name="edit_item">Enter new item</string>
+    <string name="edit_position">Enter position</string>
+    <string name="button_add">Add the Item</string>
+    <string name="title_activity_add_item">Add Item Activity</string>
+    <string name="text_add_heading"><b><u>Add a New String to the List</u></b>\n\nEnter the new string in the first box,
+        and its position in the second box.\nThen press the button.\n</string>
+</resources>

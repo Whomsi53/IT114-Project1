@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/opt1" android:title="1. Display list" android:onClick="onOption1" app:showAsAction="never"/>
+    <item android:id="@+id/opt2" android:title="2. Load list from web file" android:onClick="onOption2" app:showAsAction="never"/>
+    <item android:id="@+id/opt3" android:title="3. Add new cruise (assets)" android:onClick="onOption3" app:showAsAction="never"/>
+    <item android:id="@+id/opt4" android:title="4. Show cruise details" android:onClick="onOption4" app:showAsAction="never"/>
+    <item android:id="@+id/opt5" android:title="5. Remove a cruise" android:onClick="onOption5" app:showAsAction="never"/>
+    <item android:id="@+id/opt6" android:title="6. Most expensive per day" android:onClick="onOption6" app:showAsAction="never"/>
+    <item android:id="@+id/opt7" android:title="7. Average cruise length" android:onClick="onOption7" app:showAsAction="never"/>
+    <item android:id="@+id/opt8" android:title="8. Average per-day price" android:onClick="onOption8" app:showAsAction="never"/>
+</menu>
